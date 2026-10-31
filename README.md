@@ -34,3 +34,7 @@ python tools/build_sounds.py [--game "<TF3 install dir>"] [--duration 2.0]
 ```
 
 The script reads the originals from `base/content/gui.zip`, renders the clips and regenerates `_content.json`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
